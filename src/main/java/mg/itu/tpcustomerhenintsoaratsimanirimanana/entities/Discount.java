@@ -90,7 +90,7 @@ public class Discount implements Serializable {
         }
         return true;
     }
-
+    
     @Override
     public String toString() {
         return "mg.itu.tpcustomerhenintsoaratsimanirimanana.entities.Discount[ code=" + code + " ]";
